@@ -1,0 +1,5 @@
+git+https://github.com/moment-timeseries-foundation-model/moment.git
+ipykernel==6.29.5
+pandas==2.2.3
+scikit-learn==1.5.2
+matplotlib==3.9.2
